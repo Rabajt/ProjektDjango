@@ -3,9 +3,9 @@ Strony oparte na technologii django (Strona coachingowo treningowa oraz konwersj
 
 Harmonogram prac:
 
-1.	Utworzenie systemu kontroli wersji (github), podłączenie do kodu
-2.	Utworzenie stron bazowych (za pomocą Django), pierwsze pola. Do 19.11.2022r.
-3.	Utworzenie treści podstawowych (rozdzielenie na sekcje [ćwiczenia i trener, konwersje], utworzenie rejestracji).
+1.	Utworzenie systemu kontroli wersji (github), podłączenie do kodu.
+2.	Utworzenie stron bazowych (za pomocą Django), pierwsze pola.
+3.	Utworzenie treści podstawowych (rozdzielenie na sekcje [ćwiczenia i trener, konwersje], utworzenie rejestracji). Do 19.11.2022r.
 <br />
 
 4.	Utworzenie treści zaawansowanych (Interaktywne terminarze, filmy instruktażowe, formularze).
