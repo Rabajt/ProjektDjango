@@ -1,5 +1,5 @@
 # ProjektDjango
-Strony oparte na technologii django (Strona coachingowo treningowa oraz konwersje liczbowe różnego rodzaju).
+Strona oparte na technologii django (Strona coachingowo treningowa).
 
 Harmonogram prac:
 
@@ -15,4 +15,4 @@ Harmonogram prac:
 
 7.	Nagranie filmu instruktażowego do ćwiczeń i osadzenie go na stronie (przykładowy film do którego można uzyskać dostęp poprzez rejestrację oraz subskrypcję, utworzenie demo dla zarejestrowanych).
 8.	Przetestowanie działania, poprawki działania funkcji na stronach.
-9.	Nagranie filmu prezentującego działanie serwisów.            >>         Do 14.01.2023
+9.	Nagranie filmu prezentującego działanie serwisu.            >>         Do 28.01.2023
