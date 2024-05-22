@@ -1,5 +1,5 @@
 # ProjektDjango
-Strona oparte na technologii django (Strona coachingowo treningowa).
+Strona oparta na technologii django (Strona coachingowo treningowa).
 
 Harmonogram prac:
 
