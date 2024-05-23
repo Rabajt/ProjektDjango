@@ -1,0 +1,14 @@
+
+h1 {
+ color: dark;
+ text-align: center;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.35);
+}
+
+.carousel .carousel-item {
+  height: 600px;
+}
+
