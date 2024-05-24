@@ -1,6 +1,6 @@
 FROM python:3
 
-RUN pip install django==4.1
+RUN pip install django==3.2
 RUN pip install embed-video
 COPY . .
 
