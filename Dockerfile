@@ -1,7 +1,6 @@
 FROM python:3
 
 RUN pip install django==3.2
-RUN pip install embed-video
 COPY . .
 
 RUN python manage.py migrate
